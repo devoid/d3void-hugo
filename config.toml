@@ -1,0 +1,23 @@
+baseurl = "http://blog.d3void.net"
+languageCode = "en-us"
+title = "d3void"
+theme = "hugo-identity-theme"
+googleAnalytics = "UA-18639358-2"
+
+[params]
+  name="Scott Devoid"
+  email="scott@d3void.net"
+  avatar="bottle.jpg"
+
+  [[params.social]]
+    title = "Github"
+    icon = "fa-github"
+    link = "https://github.com/devoid"
+
+  [[params.social]]
+    title = "Twitter"
+    icon = "fa-twitter"
+    link = "https://twitter.com/@sdevoid"
+
+  [params.footer]
+    copyright = "Scott Devoid"
