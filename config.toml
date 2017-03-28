@@ -1,4 +1,4 @@
-baseurl = "http://blog.d3void.net"
+baseurl = "https://www.d3void.net"
 languageCode = "en-us"
 title = "{soft,stone}ware"
 theme = "hugo-tranquilpeak-theme"

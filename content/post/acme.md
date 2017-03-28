@@ -1,12 +1,13 @@
 +++
-date = "2017-03-24T00:00:00Z"
 title = "ACME Let's Encrypt Certificates for gRPC services"
+date = "2017-03-24T00:00:00Z"
+tags = ["golang","grpc"]
 
 clearReading = true
 autoThumbnailImage = false
 coverImage = "/images/window.jpg"
 coverCaption = "Window, Castillo de San Cristóbal, San Juan"
-coverSize = "partial"
+coverSize = "full"
 comments = false
 showSocial = false
 showPagination = false
