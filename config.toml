@@ -2,7 +2,7 @@ baseurl = "https://www.d3void.net"
 languageCode = "en-us"
 title = "{soft,stone}ware"
 theme = "hugo-tranquilpeak-theme"
-googleAnalytics = "UA-18639358-2"
+googleAnalytics = "UA-96189274-1"
 defaultContentLanguage = "en-us"
 
 [author]
