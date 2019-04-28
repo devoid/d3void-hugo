@@ -7,8 +7,8 @@ defaultContentLanguage = "en-us"
 
 [author]
   name = "Scott Devoid"
-  job  = "Software Engineer, Ericsson"
-  location = "Cambridge, MA"
+  job  = "Software Engineer, Site Reliability Engineer"
+  location = "Seattle, WA"
   picture = "images/avatars/devoid.png"
   twitter = "sdevoid"
 
